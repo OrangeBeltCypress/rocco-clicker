@@ -1,0 +1,12 @@
+.char{
+    max-width:50%;
+    max-height:40vmin;
+}
+
+.content{
+    display:flex;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}
